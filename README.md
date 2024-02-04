@@ -1,7 +1,13 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+# Hi, I'm Tam! 👋
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Brand new Flutter developper starting his journey into the world of mobile veveloppement
 
-yaaay
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamatea-denarie/)
+
+
+
+## 🛠 Skills
+Flutter, Dart, HTML, CSS, Unreal Engine, Houdini, Blender ...
+
