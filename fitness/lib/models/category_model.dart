@@ -38,6 +38,14 @@ class CategoryModel {
       ),
     );
 
+    categories.add(
+      CategoryModel(
+        name: 'Smoothies',
+        iconPath: 'assets/icons/orange-snacks.svg',
+        boxColor: const Color(0xffC58BF2),
+      ),
+    );
+
     return categories;
   }
 }
